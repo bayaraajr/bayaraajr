@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm frontend developer and currently working on my GitHub page ✨.
+
+Tech stack:
+
+- Java ☕
+- ReactJS ⚛️ & React-Native
+- NodeJS
+- AWS
+- Flutter
+
+
 <!--
 **bayaraajr/bayaraajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
