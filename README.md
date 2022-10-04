@@ -5,10 +5,12 @@ I'm frontend developer and currently working on my GitHub page ✨.
 Tech stack:
 
 - Java ☕
+  - Spring
+  - EE
 - Javascript
-- ReactJS ⚛️ & React-Native
-- NodeJS
-- NextJS
+  - ReactJS ⚛️ & React-Native
+  - NodeJS
+  - NextJS
 - AWS
 - Flutter
 
