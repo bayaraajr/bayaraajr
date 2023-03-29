@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 You can buy me a ☕ here. Good day starts with ☕
-[!["Кофе авч өг"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/CRkVXa8)
+[!["Buy me a coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/CRkVXa8)
