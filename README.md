@@ -1,6 +1,6 @@
 ### Hi there 👋, Thank you for visiting my GitHub profile.
 
-I'm frontend developer and currently working on my GitHub page ✨.
+I'm full stack developer ✨.
 
 Tech stack:
 
