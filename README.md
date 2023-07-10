@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=bayaraajr&color=green)
 
 You can buy me a ☕ here. Good day starts with ☕
 [!["Buy me a coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/CRkVXa8)
